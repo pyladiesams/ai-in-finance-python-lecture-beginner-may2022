@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# AI in Finance (UvA Python lecture)
+### Level: Beginner 
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
-## Workshop description
+## Lecture description
 Describe why your topic is important and what you want to share with your audience
 
 ## Requirements
@@ -18,4 +18,4 @@ Do not forget to indicate Python version and any other tools
 Re-watch YouTube stream [here](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This lecture was set up by @pyladiesams
