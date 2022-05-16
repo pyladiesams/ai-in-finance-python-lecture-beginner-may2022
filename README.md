@@ -1,9 +1,6 @@
 
 # Python Lecture: AI in Finance
 ### Level: Beginner
-### Presentation: [Presentation_name](presentation_ai_in_finance.pptx)
-
-## Lecture description
 **Instructor:** Alyona Galyeva
 
 In this lecture we will explore how AI can be used in Finance, how to make a simple AI model in Python, what are the consequences of using this model in real life.
@@ -24,7 +21,7 @@ After completing this lecture, you will be able to:
 ---
 
 
-Prerequisites:
+***Prerequisites***:
 * Laptop
 * Access to the internet
 * Basic Python knowledge
@@ -33,4 +30,4 @@ Prerequisites:
 * Start [this Collab notebook]()
 
 ## Credits
-This lecture was set up by @pyladiesams and @EzheZhezhe
+This lecture was set up by @EzheZhezhe and @pyladiesams
