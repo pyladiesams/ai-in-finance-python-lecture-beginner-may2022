@@ -27,7 +27,9 @@ After completing this lecture, you will be able to:
 * Basic Python knowledge
 
 ## Usage
-* Start [this Collab notebook]()
+* [Collab notebook](https://colab.research.google.com/drive/1LkUxUZHtiU2LPy0EZHiB7z8JakfAJvxd?usp=sharing)
+* Click on the link provided above to access the notebook.
+* Create a copy of the notebook in Google Drive to avoid interference with the shared notebook being used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
 
 ## Credits
 This lecture was set up by @EzheZhezhe and @pyladiesams
